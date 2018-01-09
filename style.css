@@ -1,0 +1,237 @@
+* {
+  box-sizing: border-box; }
+
+header .img-header {
+  height: 280px;
+  width: 98.5%;
+  margin-left: 0.78%;
+  background-image: url(img/header.jpg); }
+header .navigation {
+  height: 60px;
+  justify-content: center;
+  margin-left: 0.78%;
+  width: 98.5%;
+  background-color: white;
+  margin-bottom: 0px;
+  margin-top: -10px; }
+  header .navigation nav ul li {
+    display: inline-flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin-left: 11%;
+    font-size: 24px;
+    margin-top: 10px; }
+
+body .wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  max-height: 1800px;
+  max-width: 100%;
+  width: 100%;
+  margin: 0px;
+  margin-top: 0.5rem;
+  margin-left: 100px; }
+body .raadgivning_flex-1 {
+  width: 40%;
+  height: 300px;
+  margin-top: 50px; }
+  body .raadgivning_flex-1 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-1 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-2 {
+  width: 40%;
+  margin: 1.0rem;
+  margin-top: 50px; }
+  body .raadgivning_flex-2 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .raadgivning_flex-3 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-3 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-3 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-4 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-4 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .raadgivning_flex-5 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-5 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-5 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-6 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-6 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .raadgivning_flex-7 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-7 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-7 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-8 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-8 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .raadgivning_flex-9 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-9 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-9 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-10 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-10 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-10 a {
+    font-family: 'muli', sans-serif;
+    color: #43B3E8; }
+  body .raadgivning_flex-10 a:hover {
+    color: #3C72E8; }
+  body .raadgivning_flex-10 a:visited {
+    color: #2923E8; }
+body .raadgivning_flex-11 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-11 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-11 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-12 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-12 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .raadgivning_flex-13 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-13 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-13 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-14 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-14 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .raadgivning_flex-15 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-15 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-15 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-16 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-16 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .raadgivning_flex-17 {
+  width: 40%;
+  margin: 0.5;
+  margin-top: 20px; }
+  body .raadgivning_flex-17 img {
+    width: 100%;
+    max-height: 300px; }
+  body .raadgivning_flex-17 img:hover {
+    opacity: 0.3;
+    filter: 1; }
+body .raadgivning_flex-18 {
+  width: 40%;
+  margin: 1.0rem; }
+  body .raadgivning_flex-18 p {
+    font-family: 'muli', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    max-height: 300px; }
+body .wrapper2 {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row; }
+body .raad-1 {
+  display: inline-block;
+  margin-left: 100px;
+  margin-top: 80px;
+  margin-bottom: 50px; }
+body .raad-2 {
+  display: inline-block;
+  margin-left: 40px;
+  margin-top: 100px;
+  line-height: 1.8;
+  margin-right: 100px;
+  font-family: 'muli', sans-serif; }
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+  clear: both; }
+  footer .icons {
+    align-items: center; }
+  footer p {
+    text-align: center;
+    font-family: 'muli', sans-serif; }
+
+/*# sourceMappingURL=style.css.map */
